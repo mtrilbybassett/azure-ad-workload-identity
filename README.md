@@ -1,4 +1,4 @@
----
+![image](https://github.com/Azure-Samples/azure-ad-workload-identity/assets/49200399/f420388e-6bd3-4c8e-99c8-27e7ce929b48)---
 page_type: sample
 languages:
 - azurecli
@@ -22,7 +22,7 @@ products:
 - azure-key-vault
 - azure-monitor
 - azure-log-analytics
-- azure-application-insights
+- azure-monitor
 - azure-virtual-machines
 - azure-application-gateway
 - azure-cosmos-db
